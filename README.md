@@ -1,4 +1,9 @@
-# vue_crash_todolist
+# Vue Crash Course Todo List
+VueJS Crash Course about
+- VueJS
+- Axios
+- Vue Router
+https://www.youtube.com/watch?v=Wy9q22isx3U
 
 ## Project setup
 ```
